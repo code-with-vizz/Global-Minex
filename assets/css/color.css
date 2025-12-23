@@ -156,7 +156,7 @@ font-size: 95%;
 /* menu for dark background */
 .dtr-menu-light .nav-link { color: white; }
 .dtr-menu-light .active { color: #fff; }
-.dtr-menu-light .nav-link:hover { color: #fff; }
+.dtr-menu-light .nav-link:hover { color: #123a98; }
 .dtr-menu-light .active:hover { color: #123a98; }
 .dtr-menu-light .sf-menu:first-child > li a::before, .dtr-menu-light .sf-menu:first-child > li a:hover::before, .dtr-menu-light .sf-menu:first-child > li a.active:before { background-color: #ff5858; }
 /* menu for light background */
