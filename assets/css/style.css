@@ -868,7 +868,7 @@ opacity:0
 .dtr-img-feature-img i {
     position: relative;
     font-size: 28px;
-    color: #143C8A;
+    color: #ea580c;
     z-index: 2;
 }
 
@@ -892,7 +892,7 @@ opacity:0
     top: 50%;
     transform: translateY(-50%);
     font-size: 16px;
-    color: #143C8A;
+    color: #ea580c;
     transition: transform 0.3s;
 }
 
